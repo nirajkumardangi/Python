@@ -41,3 +41,6 @@ def calcSum(n):
     return n + calcSum(n-1)
 
 print(calcSum(5))
+
+
+
