@@ -1,4 +1,4 @@
-# Number Data Types: int, float, complex ################################################
+# Number Data Types: int, float, complex 
 num1 = 10; # integer
 print(num1 , "is type of" , type(num1)) 
 
@@ -9,7 +9,7 @@ num3 = 5 + 10j #complex
 print(num3 , "is type of" , type(num3))
 
 
-# String Types: ################################################
+# String Types: 
 name = 'Python'
 print(name)  
 
@@ -17,7 +17,7 @@ message = "Python for beginners"
 print(message)
 
 
-# Sequence Types: list, tuple, range ################################################
+# Sequence Types: list, tuple, range 
 # -> sequence store multiple data together in a single variable.
 
 # List (list): Lists are ordered collections of items enclosed within square brackets [ ]. Lists can contain elements of different data types and are mutable, meaning their elements can be changed after creation. For example: [1, 2, 3], ['a', 'b', 'c'], [1, 'hello', True].
