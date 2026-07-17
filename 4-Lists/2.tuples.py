@@ -61,3 +61,10 @@ print(join1)  # Output:: ('a', 'b', 'c', 1, 2, 3)
 fruits5 = ("apple", "banana", "cherry")
 myTuples = fruits5 * 2
 print(myTuples)  # Output:: ('apple', 'banana', 'cherry', 'apple', 'banana', 'cherry')
+
+"""
+append() : add an item to the end of the list.
+insert() : insert a list item at a specified index.
+pop()    : remove specific item or last item.
+remove() : remove first occurrence of a specific item.
+"""
